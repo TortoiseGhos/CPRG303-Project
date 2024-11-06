@@ -8,10 +8,10 @@
 - Creating an ADR for phase 2 for Fall 2024 Mobile Application Development (CPRG-303-C) project
 
 ## Decisions
-- Development framework:
-- Navigation strategy:
-- Hardware:
-- Database storage:
+- Development framework: React Native
+- Navigation strategy: push/pop
+- Hardware: Fingerprint navigation
+- Database storage: Local
 
 ## Consequences
 - **Positive consequences**:
